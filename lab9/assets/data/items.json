@@ -1,0 +1,5 @@
+[
+  {"id": "1", "name": "Lập trình Flutter", "description": "Học Flutter cơ bản đến nâng cao"},
+  {"id": "2", "name": "Đọc dữ liệu JSON", "description": "Thao tác với file local JSON"},
+  {"id": "3", "name": "Lưu file dữ liệu", "description": "Sử dụng package path_provider"}
+]
